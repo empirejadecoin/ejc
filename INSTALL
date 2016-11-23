@@ -1,0 +1,9 @@
+Building Empirejadecoin
+
+See doc/readme-qt.rst for instructions on building Empirejadecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Empirejadecoin.
+
+See doc/build-*.txt for instructions on building empirejadecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Empirejadecoin.
